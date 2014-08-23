@@ -1,4 +1,4 @@
 pymapreduce
 ===========
 
-MapReduce union-join in python
+Python scripts for union-join and multiple implemented in MapReduce
